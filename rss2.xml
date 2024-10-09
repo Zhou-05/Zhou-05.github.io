@@ -9,8 +9,32 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>你饿吗?</description>
-    <pubDate>Wed, 09 Oct 2024 12:35:26 GMT</pubDate>
+    <pubDate>Wed, 09 Oct 2024 12:46:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>碎碎念</title>
+      <link>http://example.com/2024/10/09/Damn/</link>
+      <guid>http://example.com/2024/10/09/Damn/</guid>
+      <pubDate>Wed, 09 Oct 2024 12:46:42 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Spawn Error像一个幽灵漂浮在我的hexo d和host文件上;&lt;/p&gt;
+&lt;p&gt;来比力就是屎，评论还自带广告，马上就把你处理掉！&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>Spawn Error像一个幽灵漂浮在我的hexo d和host文件上;</p><p>来比力就是屎，评论还自带广告，马上就把你处理掉！</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2024/10/09/Damn/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Cursor配置(二)</title>
@@ -210,28 +234,6 @@
       
       
       <comments>http://example.com/2024/09/21/AED/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>win大学院编号</title>
-      <link>http://example.com/2024/09/21/winxueyuan/</link>
-      <guid>http://example.com/2024/09/21/winxueyuan/</guid>
-      <pubDate>Sat, 21 Sep 2024 05:30:37 GMT</pubDate>
-      
-        
-        
-      <description>&lt;p&gt;1号楼      电子与电气工程学院&lt;br&gt;2号楼      美术与设计学院&lt;br&gt;3号楼      数理学院&lt;br&gt;4号楼      岩松堂&lt;br&gt;5号楼      计算机与人工智能学院&lt;br&gt;6号楼      机电工程学院&lt;br&gt;7号楼      建筑工程学院&lt;br&gt;8</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<p>1号楼      电子与电气工程学院<br>2号楼      美术与设计学院<br>3号楼      数理学院<br>4号楼      岩松堂<br>5号楼      计算机与人工智能学院<br>6号楼      机电工程学院<br>7号楼      建筑工程学院<br>8号楼      商学院<br>9号楼      教师教育学院(苏步青学院)<br>10号楼     生命与环境科学学院<br>11号楼     化学与材料工程学院</p>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2024/09/21/winxueyuan/#disqus_thread</comments>
       
     </item>
     
