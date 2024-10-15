@@ -9,8 +9,32 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>你饿吗?</description>
-    <pubDate>Tue, 15 Oct 2024 08:05:18 GMT</pubDate>
+    <pubDate>Tue, 15 Oct 2024 08:11:23 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>启程</title>
+      <link>http://example.com/2024/10/15/Start/</link>
+      <guid>http://example.com/2024/10/15/Start/</guid>
+      <pubDate>Tue, 15 Oct 2024 08:11:23 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;我喜欢的学习是自己先七摆八弄造出个勉强能跑的方轮子先，在享受对自己观点颠覆的制造圆轮子，只是教我圆轮子就是跑得快，只是叫我拿上早就造好的圆轮子转两圈，这一切只会使我沮丧。&lt;/p&gt;
+&lt;p&gt;所以自己多转转方轮子吧。我确信这是我的宝物。&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>我喜欢的学习是自己先七摆八弄造出个勉强能跑的方轮子先，在享受对自己观点颠覆的制造圆轮子，只是教我圆轮子就是跑得快，只是叫我拿上早就造好的圆轮子转两圈，这一切只会使我沮丧。</p><p>所以自己多转转方轮子吧。我确信这是我的宝物。</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2024/10/15/Start/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>碎碎念plus</title>
@@ -212,29 +236,6 @@
       
       
       <comments>http://example.com/2024/09/22/konggetest/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>图片测试</title>
-      <link>http://example.com/2024/09/22/phototest/</link>
-      <guid>http://example.com/2024/09/22/phototest/</guid>
-      <pubDate>Sun, 22 Sep 2024 04:35:19 GMT</pubDate>
-      
-        
-        
-      <description>&lt;p&gt;&lt;img src=&quot;https://img.scpo.cn/Image/Show?fileid=b5cad2c5-79b2-4cb2-95e4-5f66c1afe5c0&quot;&gt;&lt;/p&gt;
-</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<p><img src="https://img.scpo.cn/Image/Show?fileid=b5cad2c5-79b2-4cb2-95e4-5f66c1afe5c0"></p>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2024/09/22/phototest/#disqus_thread</comments>
       
     </item>
     
