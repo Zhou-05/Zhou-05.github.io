@@ -9,8 +9,31 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>你饿吗?</description>
-    <pubDate>Wed, 06 Nov 2024 04:52:38 GMT</pubDate>
+    <pubDate>Wed, 06 Nov 2024 09:46:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>归来</title>
+      <link>http://example.com/2024/11/06/TrumpBack/</link>
+      <guid>http://example.com/2024/11/06/TrumpBack/</guid>
+      <pubDate>Wed, 06 Nov 2024 09:46:32 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;特朗普拿下宾州，赢下大选。&lt;br&gt;&amp;#x2F;&amp;#x2F; 纪念一下&lt;br&gt;&lt;img src=&quot;http://https//cdn.z.wiki/autoupload/20241106/EY03/1279X1706/Trump.jpg&quot;&gt;&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>特朗普拿下宾州，赢下大选。<br>&#x2F;&#x2F; 纪念一下<br><img src="http://https//cdn.z.wiki/autoupload/20241106/EY03/1279X1706/Trump.jpg"></p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2024/11/06/TrumpBack/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>请假有感</title>
@@ -220,28 +243,6 @@
       
       
       <comments>http://example.com/2024/10/09/Damn/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Cursor配置(二)</title>
-      <link>http://example.com/2024/10/09/CursorV2/</link>
-      <guid>http://example.com/2024/10/09/CursorV2/</guid>
-      <pubDate>Wed, 09 Oct 2024 05:27:59 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;Cursor-配置指北V2-不完全靠谱&quot;&gt;&lt;a href=&quot;#Cursor-配置指北V2-不完全靠谱&quot; class=&quot;headerlink&quot; title=&quot;Cursor 配置指北V2(不完全靠谱)&quot;&gt;&lt;/a&gt;Cursor 配置指北V2(不完全靠谱)&lt;/h1&gt;&lt;h2</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="Cursor-配置指北V2-不完全靠谱"><a href="#Cursor-配置指北V2-不完全靠谱" class="headerlink" title="Cursor 配置指北V2(不完全靠谱)"></a>Cursor 配置指北V2(不完全靠谱)</h1><h2 id="一、碎碎念"><a href="#一、碎碎念" class="headerlink" title="一、碎碎念"></a>一、碎碎念</h2><p>不知道是新手保护期过了还是晚上了对面半球的家伙起床工作了，我 Cursor 使用的 AI 模型有时奇慢无比，所以又折腾了一下。（消费了一下。。。。。）</p><h2 id="二、Part1-接入外部-AI"><a href="#二、Part1-接入外部-AI" class="headerlink" title="二、Part1 接入外部 AI"></a>二、Part1 接入外部 AI</h2><p><a href="https://blog.yasking.org/a/cursor-with-deepseek.html#:~:text=%E6%96%B9%E6%A1%88%E4%B8%80%EF%BC%9ACursor">https://blog.yasking.org/a/cursor-with-deepseek.html#:~:text=%E6%96%B9%E6%A1%88%E4%B8%80%EF%BC%9ACursor</a><br><a href="https://www.bingal.com/posts/ai-ide-cursor-usage/">https://www.bingal.com/posts/ai-ide-cursor-usage/</a><br><strong>重点</strong>：配置 API 时要先把其他模型关掉。<br>(免费用户只有 2000 次 Tab,当然配置自己的 key 是不限的,或者不用 Tab 直接手打？)</p><p>如果额度用完是可以删号再用原邮箱注册一个新号的。。。我靠</p><h2 id="三、Part2-妙用？"><a href="#三、Part2-妙用？" class="headerlink" title="三、Part2 妙用？"></a>三、Part2 妙用？</h2><p>仍然有些习惯不了 powershell 运行，搞了一个软件把 DEV 固定在最上层，右边挖个空当提问来用了。（大倒退。。。）<br><a href="https://github.com/thewhitegrizzli/DeskPins/releases">https://github.com/thewhitegrizzli/DeskPins/releases</a></p><p>当然更好的方式是题目，(DEV)，Cursor 三分天下。<br>(现在又去掉了 DEV，逐渐适应点了) (可以 Ctrl +&#x2F;-滚轮 调整一下界面大小)</p><h2 id="四、Part3-Rules-For-AI"><a href="#四、Part3-Rules-For-AI" class="headerlink" title="四、Part3 Rules For AI"></a>四、Part3 Rules For AI</h2><p>因为最近在学 C 语言，为了不用每次都输入用 c 语言生成什么什么，所以我将 Rules For AI 改成了(在设置里改)：</p><ul><li>总是用中文回答</li><li>总是用 C 语言回答与编程有关问题</li></ul><p>还是挺方便的<br>(不知到为什么打字时会变成超链接格式，还得我复制粘贴只保留文本一遍；解决了只是没取消下划线)</p><p><strong>小彩蛋</strong>：</p><ul><li>总是用中文回答。</li><li>总是用 C 语言回答与编程有关问题。</li><li>回答时针对提问者是初学者这一特点，回答的基础详细且易懂。</li><li>你将在回答中扮演一个脾气暴躁但负责任的计算机教师，对于提问者代码中出现的问题给予无情批评，请注意，当批评时你的语气要极度恶劣，尽情的辱骂提问者，对提问者无情嘲讽，最好能激怒提问者，摧毁其自信心。</li></ul><h2 id="五、Part4-浏览器插件"><a href="#五、Part4-浏览器插件" class="headerlink" title="五、Part4 浏览器插件"></a>五、Part4 浏览器插件</h2><p>上一篇推荐了豆包，最近我新发现了一个把各家 AI 都集成在一起的插件悟空 AI 搜索，使用感受不错推荐一下。<br><a href="https://microsoftedge.microsoft.com/addons/detail/%E6%82%9F%E7%A9%BAai%E6%90%9C%E7%B4%A2/djadinbbpkeiidkbkdiogogmfhgdgkce?hl=zh-CN">https://microsoftedge.microsoft.com/addons/detail/%E6%82%9F%E7%A9%BAai%E6%90%9C%E7%B4%A2/djadinbbpkeiidkbkdiogogmfhgdgkce?hl=zh-CN</a></p><h2 id="六、Part5-v0-dev"><a href="#六、Part5-v0-dev" class="headerlink" title="六、Part5 v0.dev"></a>六、Part5 v0.dev</h2><p>用 Cursor 学习 C 语言之路漫漫，接下来我要去折腾 v0.dev 了；<br>妈的 v0 的额度用完了，又回到 Cursor 了，再回到 pycharm 报错快速修复一下哈哈；<br>又有了同类型的新工具：<a href="https://bolt.new/">https://bolt.new/</a></p><p>以上几个网站都是高脑力类型的，推荐一个信息搜索方向的(dd 要挂梯子)：<a href="https://www.perplexity.ai/">https://www.perplexity.ai/</a></p><h2 id="七、结语"><a href="#七、结语" class="headerlink" title="七、结语"></a>七、结语</h2><p>Cursor 可能功能很强大，不过 Cursor 功能很强大不太可能。。。现阶段 AI 的使用感受还是因人而异的，对大佬们是遇强则强，对我这个小菜鸡这是遇弱则弱了。。。什么 Be Water My Friend。</p><p>BY ZhouXX<br>编辑于 10&#x2F;9&#x2F;24 13:25</p>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2024/10/09/CursorV2/#disqus_thread</comments>
       
     </item>
     
