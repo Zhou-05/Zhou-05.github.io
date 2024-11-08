@@ -9,8 +9,30 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>你饿吗?</description>
-    <pubDate>Wed, 06 Nov 2024 09:50:05 GMT</pubDate>
+    <pubDate>Thu, 07 Nov 2024 10:52:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>先胡说两句</title>
+      <link>http://example.com/2024/11/07/trash/</link>
+      <guid>http://example.com/2024/11/07/trash/</guid>
+      <pubDate>Thu, 07 Nov 2024 10:52:38 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;对于实现AI安全就是实现AI正确这一事，实际上于我而言是模糊的。什么是安全先按下不表，什么是正确也难以评说。消除了幻觉就可以说是正确了吗？也不尽然。最近有研究说幻觉对图像的生成其实有帮助。这样随便想想也感觉幻觉会对人的思想起到一定的启发，不过也只是想想。我什么都不懂。&lt;br</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>对于实现AI安全就是实现AI正确这一事，实际上于我而言是模糊的。什么是安全先按下不表，什么是正确也难以评说。消除了幻觉就可以说是正确了吗？也不尽然。最近有研究说幻觉对图像的生成其实有帮助。这样随便想想也感觉幻觉会对人的思想起到一定的启发，不过也只是想想。我什么都不懂。<br>所以什么是正确。马斯克的xAI就一定是正确吗？伊利亚的SSI所追求的安全道路又是否安全？说白了最后的问题都指向正确基于谁的指标，谁的价值观。是东大？是美帝？又或者整个AI联合国？什么才能最大化的使人类发展。。。<br>妈的过于宏大而又大一统的东西根本不存在。别逼了。不过想想也是要想想的。可能。</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2024/11/07/trash/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>归来</title>
@@ -218,31 +240,6 @@
       
       
       <comments>http://example.com/2024/10/15/talking2/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>碎碎念</title>
-      <link>http://example.com/2024/10/09/Damn/</link>
-      <guid>http://example.com/2024/10/09/Damn/</guid>
-      <pubDate>Wed, 09 Oct 2024 12:46:42 GMT</pubDate>
-      
-        
-        
-      <description>&lt;p&gt;Spawn Error像一个幽灵漂浮在我的hexo d和hosts文件上;&lt;/p&gt;
-&lt;p&gt;来比力就是屎，评论还自带广告，马上就把你处理掉！&lt;/p&gt;
-&lt;p&gt;跑步的时候被人用来破风了。。。&lt;/p&gt;
-</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<p>Spawn Error像一个幽灵漂浮在我的hexo d和hosts文件上;</p><p>来比力就是屎，评论还自带广告，马上就把你处理掉！</p><p>跑步的时候被人用来破风了。。。</p>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2024/10/09/Damn/#disqus_thread</comments>
       
     </item>
     
